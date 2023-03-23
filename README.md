@@ -43,3 +43,5 @@ Para conectar minha maquina local com o servidor EC2, primeiro localizei onde gu
 Depois faço a conexão via ssh tunel utilizando o seguinte comando:
 ![image](https://user-images.githubusercontent.com/73916591/227070274-ab0c6a87-aa52-4d4b-9ae3-3833109b0797.png)
 
+Agora tenho que adicionar o ipv4 do meu servidor nas regras de entrada do meu banco de dados:
+![print](https://user-images.githubusercontent.com/73916591/227208778-67604765-ddd1-440e-ac11-81b1c06a074b.png)
